@@ -77,18 +77,12 @@ color: #999;
     font-size: 20px;
 }
 .uk-offcanvas-bar.uk-offcanvas-bar-animation.uk-offcanvas-slide a {
-  color: #666;
-    font-size: 20px;
-    border-bottom: 1px solid #eee;
-    transition: 1.5s;
+
 
 
 }
 .uk-offcanvas-bar.uk-offcanvas-bar-animation.uk-offcanvas-slide a:hover{
-  color: #eee;
-  background-color: #000;
-  transition: 1.5s;
-  text-indent: 10px;
+
 
 }
 
@@ -151,4 +145,14 @@ transition: 300ms;
   font-size: 19px;
 
 
+}
+
+.menu_links{
+  color: #666 !important;
+    font-size: 20px;
+    border-bottom: 1px solid #eee;
+  padding: 10px 0px !important;
+}
+.menu_links:hover{
+font-weight: bold;
 }
