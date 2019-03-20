@@ -53,7 +53,7 @@
     </div>
 
   </nav>
-  <hr>
+  <hr class="uk-margin-small">
   <div class="uk-container uk-container-large uk-text-right">
     <div id="toggle-usage" hidden>
       <div class="uk-display-block">
@@ -112,6 +112,7 @@
     </div>
     </div>
   </nav>
+  <hr class="uk-margin-small" >
   <div id="offcanvas-usage" uk-offcanvas>
     <div class="uk-offcanvas-bar">
 
@@ -126,10 +127,16 @@
         <li> <a class="menu_links" href="shoppingbag.php">shopping bag</a></li>
         <li> <a class="menu_links" href="account.php">Account</a></li>
         <li> <a class="menu_links" href="checkout.php">Check Out</a></li>
+        <li> <a class="menu_links" href="newcat.php">Fragrance</a></li>
+        <li> <a class="menu_links" href="newcat.php">OUD HOUSE</a></li>
+        <li> <a class="menu_links" href="newcat.php">OUD WOOD</a></li>
+        <li> <a class="menu_links" href="newcat.php">OUD OIL</a></li>
+        <li> <a class="menu_links" href="newcat.php">Hair Care</a></li>
+        <li> <a class="menu_links" href="newcat.php">Babby House</a></li>
 
       </ul>
-      <div class="">
-        <a class="uk-button uk-button-default" type="button">Fragrance</a>
+      <!-- <div class="">
+        <a href="newcat.php" class="uk-button uk-button-default" type="button">Fragrance</a>
 
         <div uk-dropdown="pos: right-center">
           <div class="uk-dropdown-grid " uk-grid>
@@ -152,7 +159,7 @@
       <div class="">
         <a class="uk-button uk-button-default" type="button">OUD HOUSE</a>
 
-        <div uk-dropdown="pos: right-center">
+         <div uk-dropdown="pos: right-center">
           <div class="uk-dropdown-grid " uk-grid>
             <div class="uk-width-expand">
               <ul class="uk-nav uk-dropdown-nav">
@@ -177,7 +184,7 @@
       <div class="">
         <a class="uk-button uk-button-default" type="button">OUD WOOD</a>
 
-        <div uk-dropdown="pos: right-center">
+      <div uk-dropdown="pos: right-center">
           <div class="uk-dropdown-grid " uk-grid>
             <div class="uk-width-expand">
               <ul class="uk-nav uk-dropdown-nav">
@@ -198,7 +205,7 @@
       <div class="">
         <a class="uk-button uk-button-default" type="button">OUD OIL</a>
 
-        <div uk-dropdown="pos: right-center">
+      <div uk-dropdown="pos: right-center">
           <div class="uk-dropdown-grid " uk-grid>
             <div class="uk-width-expand">
               <ul class="uk-nav uk-dropdown-nav">
@@ -237,7 +244,7 @@
 
 
       <div class="">
-        <a class="uk-button uk-button-default" type="button">Baby House</a>
+        <a class="uk-button uk-button-default " type="button">Baby House</a>
 
         <div uk-dropdown="pos: right-center">
           <div class="uk-dropdown-grid " uk-grid>
@@ -254,7 +261,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
 
 
