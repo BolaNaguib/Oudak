@@ -8,7 +8,7 @@
         <li><span>CheckOut</span></li>
     </ul>
     <div class="uk-grid">
-      <div class="uk-width-1-2">
+      <div class="uk-width-1-2@m uk-width-1-1">
         <div class="uk-width-1-1">
            <div class="form-item--with-scaling-label js-form-item form-item form-item-textfield">
         <label for="form-field-label" class="form-item__label font-weight-bold">Email Address / Username</label>
@@ -22,16 +22,16 @@
         </div>
         </div>
         <div class="uk-grid">
-          <div class="uk-width-1-2">
+          <div class="uk-width-1-2@m uk-width-1-1">
             <button class="uk-button uk-button-default pull-right uk-width-expand" type="submit"> Login </button>
           </div>
-          <div class="uk-width-1-2">
+          <div class="uk-width-1-2@m uk-width-1-1">
             <button class="uk-button uk-button-default pull-right uk-width-expand" type="submit"> Forgot Your Pasword ? </button>
           </div>
         </div>
 
       </div>
-      <div class="uk-width-1-2">
+      <div class="uk-width-1-2@m uk-width-1-1">
         <div class="uk-width-1-1">
            <div class="form-item--with-scaling-label js-form-item form-item form-item-textfield">
         <label for="form-field-label" class="form-item__label font-weight-bold">First Name</label>
@@ -75,9 +75,9 @@
       </div>
     </div>
     <div class="uk-grid">
-      <div class="uk-width-1-2">
+      <div class="uk-width-1-2@m uk-width-1-1">
       </div>
-      <div class="uk-width-1-2">
+      <div class="uk-width-1-2@m uk-width-1-1">
         <button class="uk-button uk-button-default pull-right uk-width-expand" type="submit"> Register </button>
       </div>
     </div>
@@ -88,12 +88,12 @@
 </div>
 <hr>
 <div class="uk-grid">
-  <div class="uk-width-1-2">
+  <div class="uk-width-1-2@m uk-width-1-1">
     <div class="uk-text-left">
       Perfume
     </div>
   </div>
-  <div class="uk-width-1-2">
+  <div class="uk-width-1-2@m uk-width-1-1">
     <div class="uk-text-right">
       10 $
     </div>
@@ -101,12 +101,12 @@
 
 </div>
 <div class="uk-grid">
-  <div class="uk-width-1-2">
+  <div class="uk-width-1-2@m uk-width-1-1">
     <div class="uk-text-left">
       Perfume
     </div>
   </div>
-  <div class="uk-width-1-2">
+  <div class="uk-width-1-2@m uk-width-1-1">
     <div class="uk-text-right">
       10 $
     </div>
@@ -115,12 +115,12 @@
 </div>
 <hr>
 <div class="uk-grid">
-  <div class="uk-width-1-2">
+  <div class="uk-width-1-2@m uk-width-1-1">
     <div class="uk-text-left">
       Total Price
     </div>
   </div>
-  <div class="uk-width-1-2">
+  <div class="uk-width-1-2@m uk-width-1-1">
     <div class="uk-text-right">
       10 $
     </div>

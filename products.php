@@ -11,7 +11,7 @@
   <div class="uk-container uk-container-large">
 
   <div class="uk-grid-match" uk-grid>
-    <div class="uk-width-1-3 uk-padding">
+    <div class="uk-width-1-3@m uk-width-1-1  uk-padding">
       <a href="single-Tradwood-Tradsheet.php">
       <div class="uk-card uk-card-default uk-padding productcat">
         <img src="img/product.png" width="100%" alt="">
@@ -20,7 +20,7 @@
       </div>
     </a>
     </div>
-    <div class="uk-width-2-3 uk-padding">
+    <div class="uk-width-2-3@m uk-width-1-1  uk-padding">
       <div class="uk-card ">
         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal</p>
 
@@ -44,7 +44,7 @@
   <div class="uk-container uk-container-large">
 
   <div class="uk-grid-match" uk-grid>
-    <div class="uk-width-1-3 ">
+    <div class="uk-width-1-3@m uk-width-1-1  ">
       <a href="single-Tradwood-Tradsheet.php">
       <div class="uk-card uk-card-default uk-padding productcat">
         <img src="img/product.png" width="100%" alt="">
@@ -53,7 +53,7 @@
       </div>
     </a>
     </div>
-    <div class="uk-width-1-3 ">
+    <div class="uk-width-1-3@m uk-width-1-1  ">
       <div class="uk-card ">
         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal</p>
 
@@ -67,7 +67,7 @@
       </div>
     </a>
     </div>
-    <div class="uk-width-1-3">
+    <div class="uk-width-1-3@m uk-width-1-1 ">
       <a href="single-Tradwood-Tradsheet.php">
 
       <div class="uk-card uk-card-default  uk-padding productcat">
@@ -89,7 +89,7 @@
       <img class="uk-padding-small" src="img/border-bottom.png" alt="">
     </div>
     <div class="uk-grid-match" uk-grid>
-      <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+      <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
         <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
           <div class="uk-card-media-top">
             <img src="img/product.png" alt="">
@@ -101,7 +101,7 @@
         </div>
       </div>
 
-      <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+      <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
         <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
           <div class="uk-card-media-top">
             <img src="img/product.png" alt="">
@@ -112,7 +112,7 @@
           </div>
         </div>
       </div>
-      <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+      <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
         <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
           <div class="uk-card-media-top">
             <img src="img/product.png" alt="">
@@ -123,7 +123,7 @@
           </div>
         </div>
       </div>
-      <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+      <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
         <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
           <div class="uk-card-media-top">
             <img src="img/product.png" alt="">
@@ -134,7 +134,7 @@
           </div>
         </div>
       </div>
-      <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+      <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
         <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
           <div class="uk-card-media-top">
             <img src="img/product.png" alt="">
@@ -145,7 +145,7 @@
           </div>
         </div>
       </div>
-      <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+      <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
         <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
           <div class="uk-card-media-top">
             <img src="img/product.png" alt="">
@@ -171,7 +171,7 @@
         <img class="uk-padding-small" src="img/border-bottom.png" alt="">
       </div>
       <div class="uk-grid-match" uk-grid>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -183,7 +183,7 @@
           </div>
         </div>
 
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -194,7 +194,7 @@
             </div>
           </div>
         </div>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -205,7 +205,7 @@
             </div>
           </div>
         </div>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -216,7 +216,7 @@
             </div>
           </div>
         </div>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -227,7 +227,7 @@
             </div>
           </div>
         </div>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
