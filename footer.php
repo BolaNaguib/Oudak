@@ -2,7 +2,7 @@
   <a href="#" class="scrollingtopx" uk-totop uk-scroll></a>
   <div class="uk-container uk-container-large">
   <div class="uk-grid">
-      <div class="uk-width-1-3">
+      <div class="uk-width-1-3@m uk-width-1-1 ">
         <h3>Links</h3>
         <ul class=" footer__link uk-list">
           <li>  <a href="index.php">Home</a></li>
@@ -13,7 +13,7 @@
         <li>    <a href="checkout.php">Check Out</a></li>
 </ul>
       </div>
-      <div class="uk-width-1-3">
+      <div class="uk-width-1-3@m uk-width-1-1 ">
         <h3>Links</h3>
 
         <ul class="footer__link uk-list">
@@ -25,7 +25,7 @@
         <li>    <a href="checkout.php">Check Out</a></li>
 </ul>
       </div>
-      <div class="uk-width-1-3">
+      <div class="uk-width-1-3@m uk-width-1-1 ">
         <form class="uk-form-stacked">
 
     <div class="uk-margin">

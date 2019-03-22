@@ -43,7 +43,7 @@
   <section>
     <div class="uk-container uk-container-large">
       <div class="uk-grid-match" uk-grid>
-        <div class="uk-width-1-3">
+        <div class="uk-width-1-3@m uk-width-1-1 ">
           <div class="uk-card uk-padding-small uk-card-default uk-card-hover uk-margin" uk-scrollspy="cls: uk-animation-slide-bottom;">
             <div class="uk-card-header">
               <h3 class="uk-card-title">Fragrance</h3>
@@ -59,14 +59,14 @@
           </div>
 
         </div>
-        <div class="uk-width-1-3">
+        <div class="uk-width-1-3@m uk-width-1-1 ">
           <div class="uk-card uk-card-default uk-text-center uk-padding uk-card-hover" uk-scrollspy="cls: uk-animation-slide-bottom;">
             <h2> Fragrance </h2>
             <h3> Check Our Products </h3>
             <img src="img/per.png" alt="">
           </div>
         </div>
-        <div class="uk-width-1-3">
+        <div class="uk-width-1-3@m uk-width-1-1 ">
           <div class="uk-card uk-card-default uk-text-center uk-padding uk-card-hover" uk-scrollspy="cls: uk-animation-slide-bottom;">
             <h2> Fragrance </h2>
             <h3> Check Our Products </h3>
@@ -92,7 +92,7 @@
       </div>
       <div class="uk-grid-match" uk-grid>
 
-        <div class="uk-width-1-2">
+        <div class="uk-width-1-2@m uk-width-1-1 ">
           <div class="uk-card uk-card-default uk-text-center uk-padding" uk-scrollspy="cls: uk-animation-slide-bottom;">
             <div class="uk-width-1-1">
               <h2>Oudak Special</h2>
@@ -109,7 +109,7 @@
           </div>
 
         </div>
-        <div class="uk-width-1-2">
+        <div class="uk-width-1-2@m uk-width-1-1 ">
           <div class="uk-card uk-card-default" uk-scrollspy="cls: uk-animation-slide-bottom;">
             <div class="uk-overflow-hidden">
               <img src="img/right.png" width="100%" alt="Example image" class="uk-animation uk-transform-origin-top-right" uk-scrollspy="cls: uk-animation-kenburns; repeat: true">
@@ -128,7 +128,7 @@
         <img class="uk-padding-small" src="img/border-bottom.png" alt="">
       </div>
       <div class="uk-grid-match" uk-grid>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -140,7 +140,7 @@
           </div>
         </div>
 
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -151,7 +151,7 @@
             </div>
           </div>
         </div>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -162,7 +162,7 @@
             </div>
           </div>
         </div>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -173,7 +173,7 @@
             </div>
           </div>
         </div>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -184,7 +184,7 @@
             </div>
           </div>
         </div>
-        <div class="uk-width-1-6" uk-scrollspy="cls: uk-animation-slide-bottom;">
+        <div class="uk-width-1-6@m uk-width-1-1 " uk-scrollspy="cls: uk-animation-slide-bottom;">
           <div class="uk-card uk-card-default uk-card-hover uk-padding-small uk-padding-remove-horizontal">
             <div class="uk-card-media-top">
               <img src="img/product.png" alt="">
@@ -210,20 +210,20 @@
       </div>
 
       <div uk-grid>
-        <div class="uk-width-1-2">
+        <div class="uk-width-1-2@m uk-width-1-1 ">
           <div class="uk-card uk-card-default uk-card-hover">
             <img src="img/product.png" alt="">
 
           </div>
         </div>
-        <div class="uk-width-1-2">
+        <div class="uk-width-1-2@m uk-width-1-1 ">
           <div class="uk-card">
             <h1 class="uk-heading-line"><span>Perfume bottle</span></h1>
             <h2 class="uk-margin-remove">999 $</h2>
             <p>Research proper resources legal aid approach investment fellows participatory monitoring. Metrics gender, prevention, global leaders indicator pathway to a better life. Action Against Hunger peaceful free-speech affordable health care
               elevate lifting people up economic dialogue.</p>
             <hr>
-        
+
             <div class="uk-clearfix">
               <b class="uk-text-left">Size</b>
               <div class="uk-button-group uk-align-center">
