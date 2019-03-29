@@ -3,7 +3,7 @@
     <div class="uk-container uk-container-large">
       <div class="uk-position-relative uk-visible-toggle uk-light" uk-slider>
 
-        <ul class="uk-slider-items uk-child-width-1-1" style="height:600px">
+        <ul class="uk-slider-items uk-child-width-1-1">
           <li class="uk-transition-toggle">
             <img src="img/slider1.jpg" alt="">
             <div class="uk-position-center uk-panel">

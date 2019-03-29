@@ -1,0 +1,88 @@
+h1, h2, h3, h4, h5, h6, p, span, b {
+  color: inherit;
+}
+
+.dashboredpanel {
+  background-color: #222d32;
+}
+
+.card {
+  border-radius: 4px;
+  padding: 32px 20px;
+}
+
+.card-gradient-one {
+  background-image: linear-gradient(0deg, #00bb31, #7bffb0);
+  color: #fff;
+}
+
+.card-gradient-two {
+  background-image: linear-gradient(0deg, #bb0000, #ff864d);
+  color: #fff;
+}
+
+.card-gradient-three {
+  background-image: linear-gradient(0deg, #0090bb, #4dd6ff);
+  color: #fff;
+}
+
+.activeIcon:hover {
+  color: #fff;
+  background-color: #028c42;
+  text-decoration: none;
+  transition: 300ms;
+}
+
+.activeIcon {
+  background-color: #00c451;
+  padding: 5px 20px;
+  border-radius: 4px;
+  color: #fff;
+  transition: 300ms;
+}
+
+.checkorder:hover {
+  color: #fff;
+  background-color: #6b6b6b;
+  text-decoration: none;
+  transition: 300ms;
+}
+
+.checkorder {
+  background-color: #b1aaaa;
+  padding: 5px 20px;
+  border-radius: 4px;
+  color: #fff;
+  transition: 300ms;
+}
+
+.editproduct:hover {
+  color: #fff;
+  background-color: #6b6b6b;
+  text-decoration: none;
+  transition: 300ms;
+}
+
+.editproduct {
+  background-color: #b1aaaa;
+  padding: 5px 20px;
+  border-radius: 4px;
+  color: #fff;
+  transition: 300ms;
+}
+
+.procategory:hover {
+  color: #fff;
+  background-color: #9a261a;
+  text-decoration: none;
+  transition: 300ms;
+}
+
+.procategory {
+  background-color: #f16c5e;
+  padding: 5px 20px;
+  border-radius: 4px;
+  color: #fff;
+  transition: 300ms;
+  margin-right: 10px;
+}
