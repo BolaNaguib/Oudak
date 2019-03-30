@@ -23,5 +23,12 @@
                <li><a href="addpromocode.php">Add Promo Code</a></li>
            </ul>
        </li>
+       <li class="uk-parent">
+           <a href="#">Blogs</a>
+           <ul class="uk-nav-sub">
+               <li><a href="blogslist.php">Blogs List</a></li>
+               <li><a href="addnewblog.php">Add New Blog</a></li>
+           </ul>
+       </li>
    </ul>
 </div>

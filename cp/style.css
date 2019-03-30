@@ -41,29 +41,18 @@ h1, h2, h3, h4, h5, h6, p, span, b {
   transition: 300ms;
 }
 
-.checkorder:hover {
+.checkorder:hover,
+.editproduct:hover,
+.editblog:hover  {
   color: #fff;
   background-color: #6b6b6b;
   text-decoration: none;
   transition: 300ms;
 }
 
-.checkorder {
-  background-color: #b1aaaa;
-  padding: 5px 20px;
-  border-radius: 4px;
-  color: #fff;
-  transition: 300ms;
-}
-
-.editproduct:hover {
-  color: #fff;
-  background-color: #6b6b6b;
-  text-decoration: none;
-  transition: 300ms;
-}
-
-.editproduct {
+.checkorder,
+.editproduct,
+.editblog {
   background-color: #b1aaaa;
   padding: 5px 20px;
   border-radius: 4px;

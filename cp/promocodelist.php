@@ -47,6 +47,5 @@
   </div>
 </div>
 
-<textarea>Next, use our Get Started docs to setup Tiny!</textarea>
 
 <?php include'footer.php' ?>
