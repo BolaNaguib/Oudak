@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html style="background-color:#e4e4e4;">
 
 <head>
   <title>OUDAK</title>
@@ -20,7 +20,7 @@
     <script>tinymce.init({ selector:'textarea' });</script>
 </head>
 
-<body style="background-color:#e4e4e4;">
+<body >
   <div class="" uk-grid>
     <div class="uk-width-1-5">
 <?php include'dashbored.php'; ?>
