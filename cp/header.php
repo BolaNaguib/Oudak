@@ -16,7 +16,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit-icons.min.js"></script>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
   <link rel="stylesheet" href="style.css">
-
+  <script src="https://cloud.tinymce.com/5/tinymce.min.js?apiKey=52jh2eopkvautvwzsehxy0kvhbwvsftqepptrtifh748s3p9"></script>
+    <script>tinymce.init({ selector:'textarea' });</script>
 </head>
 
 <body style="background-color:#e4e4e4;">
