@@ -39,5 +39,12 @@
                <li><a href="addnewuser.php">Add New User</a></li>
            </ul>
        </li>
+
+              <li class="uk-parent">
+                  <a href="#"><i class="fas fa-envelope"></i> Subscriptions</a>
+                  <ul class="uk-nav-sub">
+                      <li><a href="subscriptionlist.php">Subscription List</a></li>
+                  </ul>
+              </li>
    </ul>
 </div>

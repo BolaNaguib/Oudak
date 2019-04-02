@@ -1,5 +1,6 @@
 <?php include'header.php' ?>
 <div class="uk-card uk-card-default card">
+  <h3> Product List</h3>
   <div class="uk-overflow-auto">
     <table class="uk-table uk-table-small uk-table-divider uk-table-striped">
       <thead>
