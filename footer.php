@@ -38,9 +38,11 @@
 
 
 <ul class="sociallinks">
+  <li><a class="youtube" href="#"><i class="fab fa-youtube"></i></a></li>
+  <li><a class="snapchat" href="#"><i class="fab fa-snapchat-square"></i></a></li>
+  <li><a class="instagram" href="#"><i class="fab fa-instagram"></i></a></li>
   <li><a class="facebook" href="#"><i class="fab fa-facebook"></i></a></li>
-  <li><a class="twitter" href="#"><i class="fab fa-twitter-square"></i></a></li>
-  <li><a class="googleplus" href="#"><i class="fab fa-google-plus-square"></i></a></li>
+
 </ul>
 
 

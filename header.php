@@ -6,15 +6,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- UIkit CSS -->
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/css/uikit.min.css" />
-  <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Felipa" rel="stylesheet">
+
 
   <!-- UIkit JS -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit-icons.min.js"></script>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700,900|Playfair+Display:400,700,900" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 
 </head>
@@ -23,7 +24,7 @@
   <style>
 
   </style>
-
+<div class="headmenu" uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar" >
   <nav class="uk-container uk-container-large " uk-navbar>
     <div class="uk-navbar-right">
       <div>
@@ -53,7 +54,7 @@
     </div>
 
   </nav>
-  <hr class="uk-margin-small">
+  <hr class="hrline">
   <div class="uk-container uk-container-large uk-text-right">
     <div id="toggle-usage" hidden>
       <div class="uk-display-block">
@@ -75,12 +76,12 @@
     <div class="uk-navbar-center">
 
       <div class="uk-text-center">
-        <a class="uk-navbar-item uk-logo" href="index.php" style="display:block;">
+        <a class="" href="index.php" >
           <h3 class="uk-margin-remove">
             Oudak
           </h3>
-
           <h6 class="uk-margin-remove logo__subtitle">Luxury Fragrance & Beauty</h6>
+
         </a>
 
       </div>
@@ -95,7 +96,7 @@
         <ul class="uk-navbar-nav">
           <li>
             <div class="uk-inline">
-              <button class="uk-padding-small  uk-button uk-button-text" type="button"><span class="uk-margin-right">Shopping Cart</span><span uk-icon="cart"></span><span uk-icon="triangle-down"></span></button>
+              <button class="uk-padding-small  uk-button uk-button-text" type="button"><span class="uk-margin-right" Cart</span><span uk-icon="cart"></span><span uk-icon="triangle-down"></span></button>
               <!-- <div uk-dropdown="mode: click">AR</div>
 
           </div> -->
@@ -112,22 +113,31 @@
     </div>
     </div>
   </nav>
-  <hr class="uk-margin-small" >
+</div>
+
   <div id="offcanvas-usage" uk-offcanvas>
     <div class="uk-offcanvas-bar">
 
-      <button class="uk-offcanvas-close" type="button" uk-close></button>
+      <button class="uk-offcanvas-close" type="button" uk-close> </button>
 
-      <h3 class="uk-text-center">OUDAK </h3>
+      <h3 class="uk-text-center">MENU</h3>
 
-      <ul class="uk-nav uk-nav-default uk-text-center">
+      <ul class="uk-nav uk-nav-default  uk-text-center">
         <li> <a class="menu_links" href="index.php">Home</a></li>
         <li><a class="menu_links"  href="products.php">Products</a></li>
         <li><a class="menu_links"  href="contactus.php">Contact</a></li>
         <li> <a class="menu_links" href="shoppingbag.php">shopping bag</a></li>
         <li> <a class="menu_links" href="account.php">Account</a></li>
         <li> <a class="menu_links" href="checkout.php">Check Out</a></li>
-        <li> <a class="menu_links" href="newcat.php">Fragrance</a></li>
+        <li> <a class="menu_links" href="newcat.php">Fragrance</a>
+          <div class="uk-navbar-dropdown">
+                     <ul class="uk-nav uk-navbar-dropdown-nav">
+                         <li class="uk-active"><a href="#">Active</a></li>
+                         <li><a href="#">Item</a></li>
+                         <li><a href="#">Item</a></li>
+                     </ul>
+                 </div>
+               </li>
         <li> <a class="menu_links" href="newcat.php">OUD HOUSE</a></li>
         <li> <a class="menu_links" href="newcat.php">OUD WOOD</a></li>
         <li> <a class="menu_links" href="newcat.php">OUD OIL</a></li>
