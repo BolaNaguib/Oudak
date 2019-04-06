@@ -23,7 +23,7 @@ p {
   font-size: 1.1em;
   font-weight: 300;
   line-height: 1.7em;
-  color: #999;
+  color: #000;
 }
 
 /** contact input **/
@@ -189,15 +189,13 @@ button.uk-offcanvas-close.uk-close.uk-icon {
 }
 
 .namehover {
-  position: absolute;
-  left: 50px;
+
   opacity: 0;
   transition: 300ms;
 }
 
 .pricehover {
-  position: absolute;
-  right: 50px;
+
   opacity: 0;
   transition: 300ms;
 }

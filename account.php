@@ -1,6 +1,7 @@
 <?php include('header.php'); ?>
 <section>
-  <div class="uk-container uk-container-large">
+  <div class="uk-container uk-container-large" style="    background-color: #fff;
+    padding: 30px;">
     <div class="uk-grid">
       <div class="uk-width-1-4@m uk-width-1-2">
         <button class="uk-button uk-button-default uk-width-expand" type="button" name="button"> Profile </button>

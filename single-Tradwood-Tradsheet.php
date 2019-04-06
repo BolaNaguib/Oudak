@@ -24,6 +24,15 @@
                       </div>
                     </div>
                     <hr>
+                    <div class="uk-text-left uk-margin">
+                      <b> Gift Box  </b>
+                      <a class="uk-button uk-button-default uk-margin-left" href="#"> <img width="150" src="img/product.png" alt=""></a>
+                      <a class="uk-button uk-button-default uk-margin-left" href="#"> <img width="150" src="img/product.png" alt=""></a>
+                      <a class="uk-button uk-button-default uk-margin-left" href="#"> <img width="150" src="img/product.png" alt=""></a>
+
+
+                    </div>
+                    <hr>
                     <button class="uk-button uk-button-secondary uk-button-large uk-width-1-1 uk-margin"><span class="uk-margin-small-right" uk-icon="cart"></span>
                       Buy Now</button>
                     <button class="uk-button uk-button-default uk-button-large uk-width-1-1"><span class="uk-margin-small-right" uk-icon="heart"></span>Add To WishList</button>

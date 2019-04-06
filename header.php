@@ -121,30 +121,42 @@
       <button class="uk-offcanvas-close" type="button" uk-close> </button>
 
       <h3 class="uk-text-center">MENU</h3>
-
-      <ul class="uk-nav uk-nav-default  uk-text-center">
-        <li> <a class="menu_links" href="index.php">Home</a></li>
-        <li><a class="menu_links"  href="products.php">Products</a></li>
-        <li><a class="menu_links"  href="contactus.php">Contact</a></li>
-        <li> <a class="menu_links" href="shoppingbag.php">shopping bag</a></li>
-        <li> <a class="menu_links" href="account.php">Account</a></li>
-        <li> <a class="menu_links" href="checkout.php">Check Out</a></li>
-        <li> <a class="menu_links" href="newcat.php">Fragrance</a>
-          <div class="uk-navbar-dropdown">
-                     <ul class="uk-nav uk-navbar-dropdown-nav">
-                         <li class="uk-active"><a href="#">Active</a></li>
-                         <li><a href="#">Item</a></li>
-                         <li><a href="#">Item</a></li>
-                     </ul>
-                 </div>
-               </li>
-        <li> <a class="menu_links" href="newcat.php">OUD HOUSE</a></li>
-        <li> <a class="menu_links" href="newcat.php">OUD WOOD</a></li>
-        <li> <a class="menu_links" href="newcat.php">OUD OIL</a></li>
-        <li> <a class="menu_links" href="newcat.php">Hair Care</a></li>
-        <li> <a class="menu_links" href="newcat.php">Babby House</a></li>
-
+<nav>
+  <ul class="uk-nav uk-nav-default  uk-text-center">
+    <li> <a class="menu_links" href="index.php">Home</a></li>
+    <li><a class="menu_links"  href="products.php">Products</a></li>
+    <li><a class="menu_links"  href="contactus.php">Contact</a></li>
+    <li> <a class="menu_links" href="shoppingbag.php">shopping bag</a></li>
+    <li> <a class="menu_links" href="account.php">Account</a></li>
+    <li> <a class="menu_links" href="checkout.php">Check Out</a></li>
+    <li> <a class="menu_links" href="newcat.php">Fragrance</a>
+      <div uk-dropdown="pos: right-center">
+      <ul class="uk-nav uk-dropdown-nav uk-text-left">
+        <li><a class="menu_links"  href="single-Tradwood-Tradsheet-landscape.php">Product Portrait</a></li>
+        <li><a class="menu_links"  href="single-Tradwood-Tradsheet-landscape.php">Product Landscape</a></li>
+        <li><a class="menu_links"  href="#">Random Product</a></li>
       </ul>
+  </div>
+</li>
+    <li> <a class="menu_links" href="newcat.php">Hair Care</a>
+      <div uk-dropdown="pos: right-center">
+      <ul class="uk-nav uk-dropdown-nav uk-navbar">
+        <li><div class="uk-text-center"><a class="uk-button uk-button-default uk-margin-left" href="single-Tradwood-Tradsheet-landscape.php">
+          <img width="150" src="img/product.png" alt=""><b class="uk-display-block" style="color:#000">Product name</b>
+       </a>  </div></li>
+       <li><div class="uk-text-center"><a class="uk-button uk-button-default uk-margin-left" href="single-Tradwood-Tradsheet-landscape.php">
+         <img width="150" src="img/product.png" alt=""><b class="uk-display-block" style="color:#000">Product name</b>
+      </a>  </div></li>
+      <li><div class="uk-text-center"><a class="uk-button uk-button-default uk-margin-left" href="single-Tradwood-Tradsheet-landscape.php">
+        <img width="150" src="img/product.png" alt=""><b class="uk-display-block" style="color:#000">Product name</b>
+     </a>  </div></li>
+      </ul>
+  </div>
+</li>
+
+  </ul>
+</nav>
+
       <!-- <div class="">
         <a href="newcat.php" class="uk-button uk-button-default" type="button">Fragrance</a>
 
